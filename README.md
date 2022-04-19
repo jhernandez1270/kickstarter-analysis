@@ -24,13 +24,13 @@ The pivot table along with a pivot chart are used to visualize the best time to
 release our play.
 The data displays successful, failed and canceled projects in the "Theater" category broken down by months of the year.
 Here is a link to our Outcomes based on Launch Date analysis
-[Outcomes based on Launch Date chart](resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes based on Launch Date chart](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The pivot table along with a pivot chart are used to visualize which funding goal levels were most successful.
 The data displays percentage of successful, failed and canceled projects in the "Theater" category and the respective funding goal levels.
 Here is a link to our Outcomes based on funding goals analysis
-[Outcomes based on Launch Date chart](resources/Outcomes_vs_Goals.png)
+![Outcomes based on Launch Date chart](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 One of the challenges I encountered I faced was grouping the Dates columns in the Launch Date Outcomes pivot table
